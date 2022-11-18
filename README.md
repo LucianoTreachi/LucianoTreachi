@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/luciano-treachi" target="blank"><img src="./icons/linkedin.png" alt="linkedin" width="40" height="40"/></a>
 </p>
 
-## Languages and Tools:
+## Languages and Tools
 
 <p> 
 <img src="./icons/html5.png" alt="html5" width="40" height="40"/> &#xa0;
