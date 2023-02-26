@@ -1,15 +1,15 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/LucianoTreachi/LucianoTreachi/main/img/banner.jpg" width="100%" alt="Banner"/>
 
-## You can send me an email to
+## Puedes enviarme un email
 **lucianotreachi@outlook.com**
 
-## Connect with me
+## Conecta conmigo a través de LinkedIn
 <p>
 <a href="https://linkedin.com/in/luciano-treachi" target="blank"><img src="./icons/linkedin.png" alt="linkedin" width="40" height="40"/></a>
 </p>
 
-## Languages and Tools
+## Habilidades
 
 <p> 
 <img src="./icons/html5.png" alt="html5" width="40" height="40"/> &#xa0;
