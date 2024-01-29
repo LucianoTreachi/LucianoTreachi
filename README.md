@@ -3,11 +3,11 @@
 
 ## Sitio Web
 
-> [www.lucianotreachi.com](https://www.lucianotreachi.com/)
+> [https://www.lucianotreachi.com](https://www.lucianotreachi.com/)
 
 ## LinkedIn
 
-> [Luciano Treachi](https://www.linkedin.com/in/luciano-treachi/)
+> [https://www.linkedin.com/LucianoTreachi](https://www.linkedin.com/in/luciano-treachi/)
 
 ## Habilidades
 
@@ -18,12 +18,7 @@
  <img src="./icons/react.png" alt="javascript" width="40" height="40"/> &#xa0; 
  <img src="./icons/bootstrap.png" alt="bootstrap" width="40" height="40"/> &#xa0;
  <img src="./icons/sass.png" alt="sass" width="40" height="40"/> &#xa0;
- <img src="./icons/wix.png" alt="sass" width="40" height="40"/> &#xa0;
  <img src="./icons/git.png" alt="git" width="40" height="40"/> &#xa0;
- <img src="./icons/npm.png" alt="git" width="40" height="40"/> &#xa0; 
- <img src="./icons/ps.png" alt="photoshop" width="40" height="40"/> &#xa0; 
- <img src="./icons/pr.png" alt="premier" width="40" height="40"/> &#xa0; 
- <img src="./icons/canva.png" alt="flstudio" width="40" height="40"/> &#xa0; 
 </p>
 
 </div>
