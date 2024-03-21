@@ -12,13 +12,11 @@
 ## Habilidades
 
 <p> 
- <img src="./icons/html5.png" alt="html5" width="40" height="40"/> &#xa0;
- <img src="./icons/css3.png" alt="css3" width="40" height="40"/> &#xa0;
- <img src="./icons/js.png" alt="javascript" width="40" height="40"/> &#xa0; 
- <img src="./icons/react.png" alt="javascript" width="40" height="40"/> &#xa0; 
- <img src="./icons/bootstrap.png" alt="bootstrap" width="40" height="40"/> &#xa0;
- <img src="./icons/sass.png" alt="sass" width="40" height="40"/> &#xa0;
- <img src="./icons/git.png" alt="git" width="40" height="40"/> &#xa0;
+ <img src="./icons/html5.png" alt="HTML" width="40" height="40"/> &#xa0;
+ <img src="./icons/css3.png" alt="CSS" width="40" height="40"/> &#xa0;
+ <img src="./icons/js.png" alt="JavaScript" width="40" height="40"/> &#xa0; 
+ <img src="./icons/react.png" alt="React" width="40" height="40"/> &#xa0; 
+ <img src="./icons/next.png" alt="Next.js" width="40" height="40"/> &#xa0; 
 </p>
 
 </div>
