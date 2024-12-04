@@ -3,7 +3,7 @@
 
 ## Sitio Web
 
-> [https://lucianotreachi.vercel.app/](https://lucianotreachi.vercel.app//)
+> [https://lucianotreachi.website/](https://lucianotreachi.website/)
 
 ## LinkedIn
 
