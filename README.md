@@ -20,29 +20,29 @@ Soy un **desarrollador frontend** dedicado a crear soluciones web eficientes, ac
 
 ## Proyectos destacados
 
-### Optimizador Web
+### 🌐 Optimizador Web
 
 Sitio web con listas de verificación, herramientas online y extensiones útiles, diseñado para ayudar a los desarrolladores a cumplir con los más altos estándares en UX/UI, velocidad, accesibilidad y buenas prácticas.
 
-🔗 Ver proyecto: [Optimizador Web](https://optimizadorweb.site/)
+↪︎ Ver proyecto: [Optimizador Web](https://optimizadorweb.site/)
 
-### Cursos online de programación
+### 🌐 Cursos online de programación
 
 Plataforma que reúne los mejores cursos online de programación, clasificados por Frontend, Backend y Aplicaciones Móviles, para facilitar el aprendizaje a profesionales y principiantes.
 
-🔗 Ver proyecto: [Cursos de Programación](https://cursosonlinedeprogramacion.vercel.app/)
+↪︎ Ver proyecto: [Cursos de Programación](https://cursosonlinedeprogramacion.vercel.app/)
 
-### Blog UX/UI
+### 🌐 Blog UX/UI
 
 Blog con consejos y estrategias para mejorar la experiencia de usuario en sitios web, creando interfaces más intuitivas y efectivas.
 
-🔗 Ver proyecto: [Blog UX/UI](https://bloguxui.vercel.app/)
+↪︎ Ver proyecto: [Blog UX/UI](https://bloguxui.vercel.app/)
 
-### Pruebas Accesibles
+### 🌐 Pruebas Accesibles
 
 Sitio web diseñado para evaluar cómo distintos lectores de pantalla anuncian la información, cuando se incluyen etiquetas, atributos y roles específicos que mejoran la accesibilidad web.
 
-🔗 Ver proyecto: [Pruebas Accesibles](https://pruebasaccesibles.vercel.app/)
+↪︎ Ver proyecto: [Pruebas Accesibles](https://pruebasaccesibles.vercel.app/)
 
 ![Proyectos personales](img/projects.png)
 
@@ -52,10 +52,10 @@ Sitio web diseñado para evaluar cómo distintos lectores de pantalla anuncian l
 
 Visita mi sitio web personal para descubrir sobre mi enfoque en el desarrollo frontend y explorar más proyectos.
 
-[https://lucianotreachi.website/](https://lucianotreachi.website/)
+🔗 [https://lucianotreachi.website/](https://lucianotreachi.website/)
 
 ### LinkedIn
 
 Conéctate conmigo para discutir colaboraciones o nuevas oportunidades.
 
-[https://www.linkedin.com/in/luciano-treachi/](https://www.linkedin.com/in/luciano-treachi/)
+🔗 [https://www.linkedin.com/in/luciano-treachi/](https://www.linkedin.com/in/luciano-treachi/)
