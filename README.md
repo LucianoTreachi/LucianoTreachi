@@ -4,33 +4,19 @@ Soy un **desarrollador frontend** dedicado a crear soluciones web eficientes, ac
 
 ## Habilidades técnicas
 
-<p>
-<img src="icons/html.svg" alt="Logo de HTML" style="margin-right: 2px; transform: translateY(6px);"> <strong>HTML:</strong> Estructuro el contenido web de manera semántica.
-</p>
+![Logo de HTML](icons/html.svg) **HTML:** Estructuro el contenido web de manera semántica.
 
-<p>
-<img src="icons/css.svg" alt="Logo de CSS" style="margin-right: 2px; transform: translateY(6px);"> <strong>CSS:</strong> Diseño para distintas resoluciones de pantalla.
-</p>
+![Logo de CSS](icons/css.svg) **CSS:** Diseño para distintas resoluciones de pantalla.
 
-<p>
-<img src="icons/js.svg" alt="Logo de JavaScript" style="margin-right: 2px; transform: translateY(6px);"> <strong>JavaScript:</strong> Agrego interacción y funcionalidad dinámica.
-</p>
+![Logo de JavaScript](icons/js.svg) **JavaScript:** Agrego interacción y funcionalidad dinámica.
 
-<p>
-<img src="icons/react.svg" alt="Logo de React" style="margin-right: 2px; transform: translateY(6px);"> <strong>React:</strong> Desarrollo interfaces modulares y reutilizables.
-</p>
+![Logo de React](icons/react.svg) **React:** Desarrollo interfaces modulares y reutilizables.
 
-<p>
-<img src="icons/next.svg" alt="Logo de Next.js" style="margin-right: 2px; transform: translateY(6px);"> <strong>Next.js:</strong> Desarrollo aplicaciones modernas con renderizado en el cliente (CSR) y el servidor (SSR).
-</p>
+![Logo de Next.js](icons/next.svg) **Next.js:** Desarrollo aplicaciones modernas con renderizado en el cliente (CSR) y el servidor (SSR).
 
-<p>
-<img src="icons/w3c.svg" alt="Logo de W3C" style="margin-right: 2px; transform: translateY(6px);"> <strong>W3C Standards:</strong> Cumplo con los estándares web oficiales.
-</p>
+![Logo de W3C](icons/w3c.svg) **W3C Standards:** Cumplo con los estándares web oficiales.
 
-<p>
-<img src="icons/accessibility.svg" alt="Logo de Accesibilidad Web" style="margin-right: 2px; transform: translateY(6px);"> <strong>Accesibilidad Web:</strong> Implemento las pautas WCAG para asegurar una mayor inclusividad.
-</p>
+![Logo de Accesibilidad Web](icons/accessibility.svg) **Accesibilidad Web:** Implemento las pautas WCAG para asegurar una mayor inclusividad.
 
 ## Proyectos destacados
 
