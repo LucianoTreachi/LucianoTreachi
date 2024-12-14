@@ -4,41 +4,45 @@ Soy un **desarrollador frontend** dedicado a crear soluciones web eficientes, ac
 
 ## Habilidades técnicas
 
-**→ HTML/CSS:** Estructura semántica, estilización y diseño responsivo.
+<img src="icons/html.svg" alt="Logo de HTML" style="margin-right: 2px; transform: translateY(6px);"> **HTML:** Estructuro el contenido web de manera semántica.
 
-**→ JavaScript:** Lógica interactiva y funcional.
+<img src="icons/css.svg" alt="Logo de CSS" style="margin-right: 2px; transform: translateY(6px);"> **CSS:** Diseño para distintas resoluciones de pantalla.
 
-**→ React:** Interfaces modulares y componentes reutilizables.
+<img src="icons/js.svg" alt="Logo de JavaScript" style="margin-right: 2px; transform: translateY(6px);"> **JavaScript:** Agrego interacción y funcionalidad dinámica.
 
-**→ Next.js:** Aplicaciones modernas utilizando renderizado del lado del cliente (CSR) y del servidor (SSR).
+<img src="icons/react.svg" alt="Logo de React" style="margin-right: 2px; transform: translateY(6px);"> **React:** Desarrollo interfaces modulares y reutilizables.
 
-**→ W3C Standards:** Código limpio, semántico y estandarizado.
+<img src="icons/next.svg" alt="Logo de Next.js" style="margin-right: 2px; transform: translateY(6px);"> **Next.js:** Desarrollo aplicaciones modernas con renderizado en el cliente (CSR) y el servidor (SSR).
 
-**→ Accesibilidad Web:** Implementación de pautas WCAG.
+<img src="icons/w3c.svg" alt="Logo de W3C" style="margin-right: 2px; transform: translateY(6px);"> **W3C Standards:** Cumplo con los estándares web oficiales.
 
-![Logo de HTML](icons/html.svg)
-![Logo de CSS](icons/css.svg)
-![Logo de JavaScript](icons/js.svg)
-![Logo de React](icons/react.svg)
-![Logo de Next.js](icons/next.svg)
+<img src="icons/accessibility.svg" alt="Logo de Accesibilidad Web" style="margin-right: 2px; transform: translateY(6px);"> **Accesibilidad Web:** Implemento las pautas WCAG para asegurar una mayor inclusividad.
 
 ## Proyectos destacados
 
-**→ Optimizador Web:** Sitio web que ofrece listas de verificación, herramientas online y extensiones útiles, para ayudar a desarrolladores a cumplir con los más altos estándares en UX/UI, velocidad, accesibilidad y buenas prácticas.
+### Optimizador Web
 
-Ver proyecto: [Optimizador Web](https://optimizadorweb.site/)
+Sitio web con listas de verificación, herramientas online y extensiones útiles, diseñado para ayudar a los desarrolladores a cumplir con los más altos estándares en UX/UI, velocidad, accesibilidad y buenas prácticas.
 
-**→ Cursos online de programación:** Sitio web que reúne los mejores cursos online de programación, clasificados por Frontend, Backend y Aplicaciones Móviles, para ayudar a profesionales y principiantes a encontrar recursos de aprendizaje efectivos.
+🔗 Ver proyecto: [Optimizador Web](https://optimizadorweb.site/)
 
-Ver proyecto: [Cursos de Programación](https://cursosonlinedeprogramacion.vercel.app/)
+### Cursos online de programación
 
-**→ Blog UX/UI:** Blog con consejos prácticos y estrategias, para ayudar a desarrolladores a mejorar la experiencia de usuario en sitios web, creando interfaces más intuitivas y efectivas.
+Plataforma que reúne los mejores cursos online de programación, clasificados por Frontend, Backend y Aplicaciones Móviles, para facilitar el aprendizaje a profesionales y principiantes.
 
-Ver proyecto: [Blog UX/UI](https://bloguxui.vercel.app/)
+🔗 Ver proyecto: [Cursos de Programación](https://cursosonlinedeprogramacion.vercel.app/)
 
-**→ Pruebas Accesibles:** Sitio web diseñado para evaluar cómo distintos lectores de pantalla anuncian la información, cuando se incluyen etiquetas, atributos y roles específicos que mejoran la accesibilidad web.
+### Blog UX/UI
 
-Ver proyecto: [Pruebas Accesibles](https://pruebasaccesibles.vercel.app/)
+Blog con consejos y estrategias para mejorar la experiencia de usuario en sitios web, creando interfaces más intuitivas y efectivas.
+
+🔗 Ver proyecto: [Blog UX/UI](https://bloguxui.vercel.app/)
+
+### Pruebas Accesibles
+
+Sitio web diseñado para evaluar cómo distintos lectores de pantalla anuncian la información, cuando se incluyen etiquetas, atributos y roles específicos que mejoran la accesibilidad web.
+
+🔗 Ver proyecto: [Pruebas Accesibles](https://pruebasaccesibles.vercel.app/)
 
 ![Proyectos personales](img/projects.png)
 
@@ -46,8 +50,12 @@ Ver proyecto: [Pruebas Accesibles](https://pruebasaccesibles.vercel.app/)
 
 ### Sitio web personal
 
+Visita mi sitio web personal para descubrir sobre mi enfoque en el desarrollo frontend y explorar más proyectos.
+
 [https://lucianotreachi.website/](https://lucianotreachi.website/)
 
 ### LinkedIn
+
+Conéctate conmigo para discutir colaboraciones o nuevas oportunidades.
 
 [https://www.linkedin.com/in/luciano-treachi/](https://www.linkedin.com/in/luciano-treachi/)
