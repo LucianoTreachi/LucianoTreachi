@@ -28,13 +28,13 @@ Sitio web con listas de verificación, herramientas online y extensiones útiles
 
 ### 🌐 Cursos online de programación
 
-Plataforma que reúne los mejores cursos online de programación, clasificados por Frontend, Backend y Aplicaciones Móviles, para facilitar el aprendizaje a profesionales y principiantes.
+Sitio web que reúne los mejores cursos online de programación, clasificados por Frontend, Backend y Aplicaciones Móviles, para facilitar el aprendizaje a profesionales y principiantes.
 
 ↪︎ Ver proyecto: [Cursos de Programación](https://cursosonlinedeprogramacion.vercel.app/)
 
 ### 🌐 Blog UX/UI
 
-Blog con consejos y estrategias para mejorar la experiencia de usuario en sitios web, creando interfaces más intuitivas y efectivas.
+Blog con estrategias y consejos prácticos para diseñar interfaces intuitivas y mejorar la experiencia del usuario en la web.
 
 ↪︎ Ver proyecto: [Blog UX/UI](https://bloguxui.vercel.app/)
 
