@@ -52,10 +52,10 @@ Sitio web diseñado para evaluar cómo distintos lectores de pantalla anuncian l
 
 Visita mi sitio web personal para descubrir sobre mi enfoque en el desarrollo frontend y explorar más proyectos.
 
-🔗 [https://lucianotreachi.website/](https://lucianotreachi.website/)
+🔗 [lucianotreachi.website](https://lucianotreachi.website/)
 
 ### LinkedIn
 
 Conéctate conmigo para discutir colaboraciones o nuevas oportunidades.
 
-🔗 [https://www.linkedin.com/in/luciano-treachi/](https://www.linkedin.com/in/luciano-treachi/)
+🔗 [linkedin/luciano-treachi](https://www.linkedin.com/in/luciano-treachi/)
