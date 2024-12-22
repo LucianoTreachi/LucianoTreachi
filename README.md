@@ -22,9 +22,11 @@ Soy un **desarrollador frontend** dedicado a crear soluciones web eficientes, ac
 
 ### 🌐 Optimizador Web
 
-Sitio web con listas de verificación, herramientas online y extensiones útiles, diseñado para ayudar a los desarrolladores a cumplir con los más altos estándares en UX/UI, velocidad, accesibilidad y buenas prácticas.
+Sitio web con listas de verificación, herramientas online y extensiones útiles, diseñado para ayudar a los desarrolladores a cumplir con los más altos estándares en SEO, UX/UI, Rendimiento y Accesibilidad.
 
 ↪︎ Ver proyecto: [Optimizador Web](https://optimizadorweb.site/)
+
+![Captura de pantalla de proyecto](img/optimizador-web.png)
 
 ### 🌐 Cursos online de programación
 
@@ -32,11 +34,15 @@ Sitio web que reúne los mejores cursos online de programación, clasificados po
 
 ↪︎ Ver proyecto: [Cursos de Programación](https://cursosonlinedeprogramacion.vercel.app/)
 
+![Captura de pantalla de proyecto](img/cursos-online.png)
+
 ### 🌐 Blog UX/UI
 
 Blog con estrategias y consejos prácticos para diseñar interfaces intuitivas y mejorar la experiencia del usuario en la web.
 
 ↪︎ Ver proyecto: [Blog UX/UI](https://bloguxui.vercel.app/)
+
+![Captura de pantalla de proyecto](img/blog-ux-ui.png)
 
 ### 🌐 Pruebas Accesibles
 
@@ -44,17 +50,15 @@ Sitio web diseñado para evaluar cómo distintos lectores de pantalla anuncian l
 
 ↪︎ Ver proyecto: [Pruebas Accesibles](https://pruebasaccesibles.vercel.app/)
 
-![Proyectos personales](img/projects.png)
+![Captura de pantalla de proyecto](img/pruebas-accesibles.png)
 
-## Enlaces importantes
-
-### Sitio web personal
+## Mi Sitio web personal
 
 Visita mi sitio web personal para descubrir sobre mi enfoque en el desarrollo frontend y explorar más proyectos.
 
 🔗 [lucianotreachi.website](https://lucianotreachi.website/)
 
-### LinkedIn
+## LinkedIn
 
 Conéctate conmigo para discutir colaboraciones o nuevas oportunidades.
 
