@@ -52,7 +52,7 @@ Sitio web diseñado para evaluar cómo distintos lectores de pantalla anuncian l
 
 ![Captura de pantalla de proyecto](img/pruebas-accesibles.png)
 
-## Mi Sitio web personal
+## Mi Sitio Web Personal
 
 Visita mi sitio web personal para descubrir sobre mi enfoque en el desarrollo frontend y explorar más proyectos.
 
