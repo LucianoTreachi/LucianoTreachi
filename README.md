@@ -2,22 +2,6 @@
 
 Soy un **desarrollador frontend** dedicado a crear soluciones web eficientes, accesibles, intuitivas y fáciles de usar que potencian la experiencia del usuario y cumplen con altos estándares de calidad.
 
-## Habilidades técnicas
-
-![Logo de HTML](icons/html.svg) **HTML:** Estructuro el contenido web de manera semántica.
-
-![Logo de CSS](icons/css.svg) **CSS:** Diseño para distintas resoluciones de pantalla.
-
-![Logo de JavaScript](icons/js.svg) **JavaScript:** Agrego interacción y funcionalidad dinámica.
-
-![Logo de React](icons/react.svg) **React:** Desarrollo interfaces modulares y reutilizables.
-
-![Logo de Next.js](icons/next.svg) **Next.js:** Desarrollo aplicaciones modernas con renderizado en el cliente (CSR) y el servidor (SSR).
-
-![Logo de W3C](icons/w3c.svg) **W3C Standards:** Cumplo con los estándares web oficiales.
-
-![Logo de Accesibilidad Web](icons/accessibility.svg) **Accesibilidad Web:** Implemento las pautas WCAG para asegurar una mayor inclusividad.
-
 ## Proyectos destacados
 
 ### 🌐 Optimizador Web
